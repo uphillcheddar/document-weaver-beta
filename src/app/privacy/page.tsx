@@ -128,7 +128,7 @@ function PrivacyPage() {
     <h2>Affiliate Program</h2>
     <p>Document Weaver participates in an affiliate program provided by Lemon Squeezy. This program tracks users locally and communicates with Lemon Squeezy to recognize referrals. No personal data is shared with Lemon Squeezy as part of this program.</p>
     
-    <h2>Children's Privacy</h2>
+    <h2>Children&apos;s Privacy</h2>
     <p>Our website and services are not intended for children under the age of 13. We do not knowingly collect personal information from children. If we become aware that a child has provided us with personal information, we will take steps to delete such information.</p>
     
     <h2>Changes to This Privacy Policy</h2>
